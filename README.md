@@ -20,3 +20,8 @@ You also have to add the snapshot of that transaction from [Etherscan](https://r
   
 ![ss](https://user-images.githubusercontent.com/75640645/155996294-b6981bab-5ce4-4169-9f5f-4beb277af78d.jpg)
 
+  <hr>
+  
+  Make sure to follow the PR-template. Your PR should look like this.
+  
+![pr](https://user-images.githubusercontent.com/75640645/156002452-5e9fe270-5b0f-46dd-ba77-8fbf2d14d96f.jpg)
