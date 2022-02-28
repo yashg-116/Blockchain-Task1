@@ -1,6 +1,6 @@
 # Blockchain-Task1
 
-Setup your Metamask as demonstrated above. And request faucet from [Rinkeby](https://www.rinkebyfaucet.com/.)
+Setup your Metamask as demonstrated in the work-shop. And request faucet from [Rinkeby](https://www.rinkebyfaucet.com/.)
 
 Your task is to create a folder named <your-github-username> in the root directory.
 In that folder, you have to create <your-github-username>.json
